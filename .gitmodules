@@ -1,0 +1,6 @@
+[submodule "nycJobapp"]
+	path = nycJobapp
+	url = https://github.com/dcartist/nycjobsapp
+[submodule "nycJob-api"]
+	path = nycJob-api
+	url = https://github.com/dcartist/nycJobs-api
